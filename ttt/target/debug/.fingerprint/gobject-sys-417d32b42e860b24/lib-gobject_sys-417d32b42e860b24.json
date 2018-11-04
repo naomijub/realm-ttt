@@ -1,1 +1,0 @@
-{"rustc":12799628686721755460,"features":"[]","target":12897258292874009781,"profile":7990393541957723157,"path":7211892915228471434,"deps":[["bitflags v1.0.4","bitflags",9477531197637531606],["glib-sys v0.5.0","glib_sys",16775122526447822334],["libc v0.2.43","libc",585300054838484186]],"local":[{"Precalculated":"0.5.0"}],"rustflags":[],"edition":"Edition2015"}
