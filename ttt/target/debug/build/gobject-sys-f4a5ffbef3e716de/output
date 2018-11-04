@@ -1,0 +1,6 @@
+cargo:rustc-link-search=native=/usr/local/Cellar/glib/2.58.1/lib
+cargo:rustc-link-search=native=/usr/local/opt/gettext/lib
+cargo:rustc-link-lib=gobject-2.0
+cargo:rustc-link-lib=glib-2.0
+cargo:rustc-link-lib=intl
+cargo:rustc-link-lib=framework=CoreFoundation

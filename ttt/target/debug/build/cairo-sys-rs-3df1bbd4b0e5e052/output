@@ -1,0 +1,2 @@
+cargo:rustc-link-search=native=/usr/local/Cellar/cairo/1.16.0/lib
+cargo:rustc-link-lib=cairo
