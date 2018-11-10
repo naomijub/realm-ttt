@@ -3,7 +3,6 @@ extern crate gtk;
 extern crate relm;
 #[macro_use]
 extern crate relm_derive;
-#[cfg_attr(test, macro_use)]
 
 use gtk::{
     Button,
